@@ -16,9 +16,6 @@ close to something and you fail to see the "bigger
 picture"!
 
 <br>
-<br>
-<br>
-<br>
 
 ### To use
 ```
