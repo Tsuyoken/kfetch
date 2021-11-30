@@ -19,7 +19,7 @@ picture"!
 
 ### To use
 ```
-git clone htpps://github.com/kennedy69/kfetch.git
+git clone https://github.com/kennedy69/kfetch.git
 cd kfetch
 bash kfetch
 ```
